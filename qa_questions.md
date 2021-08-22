@@ -1,9 +1,9 @@
 
 
-#Context
+# Context
 The following questions are in response to a large fortune 500 company. 
 
-#Glossery:
+# Glossery:
 Automation = Automated testing that is generally triggered as part of a 
 Continious Integration (CI) process.
 
@@ -13,7 +13,7 @@ integration tests (ie: API tests), to larger tests that assert user journeys
 (ie: UI tests).
 
 
-#Questions
+# Questions
 
 1. When would you plan/start automation for a project? What would be your
 pre-requisites?
