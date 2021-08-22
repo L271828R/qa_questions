@@ -41,9 +41,13 @@ planning automated testing as early as possible in the project's lifecycle.
 Specifically when the following has been decided:
 
 1.1 The core language(s) of the main project 
+
 1.2 The repository strategy (ie: Mono repo vs Multi repo)
+
 1.3 The need for build and test paralization
+
 1.4 How easily can test cases be described in a higher level of abstraction
+
 
 2. If you have to automate scripts for 2 or more websites that have similar
 functionality what would your automation approach be?
